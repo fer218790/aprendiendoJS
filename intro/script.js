@@ -1,0 +1,1 @@
+alert("Hacé la secundaria!");

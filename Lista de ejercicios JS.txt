@@ -1,0 +1,5 @@
+Lista de ejercicio JS:
+
+//1. Escribe un programa que verifique si un número dado es positivo
+//2. Escribe un programa que verifique si una persona es mayor de edad
+//3. Escribe un programa que verifique si un número es par
